@@ -1,2 +1,5 @@
 echo "Channapati Mohanbabu"
 echo "Hi Chetan"
+echo "Hi Bheem"
+echo "Hello World"
+echo "Super ra mama"
